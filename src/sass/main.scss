@@ -1,0 +1,30 @@
+// @import "~font-awesome/css/font-awesome.css";
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:100,300,400");
+@import "./custom";
+@import "./projects";
+@import "~bootstrap/scss/bootstrap";
+
+@font-face {
+  font-family: "Chakra Petch";
+  src: local("ChakraPetch-Regular"),
+    url("../assets/fonts/Chakra_Petch/ChakraPetch-Regular.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "Chakra Petch Bold";
+  src: local("ChakraPetch-Bold"),
+    url("../assets/fonts/Chakra_Petch/ChakraPetch-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto Condensed";
+  src: local("RobotoCondensed-Regular"),
+    url("../assets/fonts/Roboto/RobotoCondensed-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto Condensed Bold";
+  src: local("RobotoCondensed-Bold"),
+    url("../assets/fonts/Roboto/RobotoCondensed-Bold.ttf") format("truetype");
+}
